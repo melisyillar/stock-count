@@ -1,6 +1,5 @@
 Notebook 120
-Pencil -5
-
+Pencil 440
 Stapler 12
 
 
