@@ -4,3 +4,4 @@ Stapler 12
 
 
 Tape 60
+Labels 300
