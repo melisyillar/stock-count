@@ -4,7 +4,7 @@ Stapler 11
 
 
 
-Tape 60
+Tape 58
 Labels 300
 Envelopes 500
 Rubber bands 900
