@@ -8,3 +8,4 @@ Tape 60
 Labels 300
 Envelopes 500
 Rubber bands 900
+Markers 75
