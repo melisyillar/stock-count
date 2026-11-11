@@ -1,12 +1,12 @@
+
+
+
+Envelopes 500
+Erasers 60
+Labels 300
+Markers 75
 Notebook 118
 Pencil 440
-Stapler 11
-
-
-
-Tape 58
-Labels 300
-Envelopes 500
 Rubber bands 900
-Markers 75
-Erasers 60
+Stapler 11
+Tape 58
