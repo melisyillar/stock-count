@@ -14,3 +14,7 @@ The stock count of Selin's warehouse: every product, with its number.
 2. Make a branch.
 3. Commit, push, and open a pull request.
 4. Somebody else reviews it before it is merged.
+## Decisions
+
+- [0001 - The count is a plain text file](docs/adr/0001-plain-text-count.md)
+
